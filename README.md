@@ -36,9 +36,14 @@ The dashboard was designed to answer key business questions such as:
 
 ---
 
-# 🚀 Dashboard Features
+# 🚀 Dashboard Features and snaps
 
 ### ✅ Executive Dashboard
+
+<p align="center">
+<img src="snaps/dashboard-home.png" width="100%">
+</p>
+
 
 Provides a high-level overview of business performance through key performance indicators and summary visualizations.
 
@@ -59,7 +64,11 @@ Provides a high-level overview of business performance through key performance i
 
 ---
 
-### 📈 Sales & Profit Analysis
+## 📈 Sales & Profit Analysis
+
+<p align="center">
+<img src="snaps/sales%20and%20profit%20analysis.png" width="100%">
+</p>
 
 Provides detailed financial performance analysis.
 
@@ -75,6 +84,10 @@ Provides detailed financial performance analysis.
 ---
 
 ### 📦 Product Analysis
+
+<p align="center">
+<img src="snaps/product%20analysis.png" width="100%">
+</p>
 
 Analyzes product performance across categories and sub-categories.
 
@@ -94,6 +107,12 @@ Analyzes product performance across categories and sub-categories.
 
 ### 👥 Customer Analysis
 
+## 👥 Customer Analysis
+
+<p align="center">
+<img src="snaps/customer%20analysis.png" width="100%">
+</p>
+
 Provides insights into customer purchasing behavior.
 
 **Features**
@@ -108,38 +127,6 @@ Provides insights into customer purchasing behavior.
 - Orders by Sub-Category
 
 ---
-
-# 📷 Dashboard Pages
-
-## 🏠 Executive Dashboard
-
-<p align="center">
-<img src="images/dashboard-home.png" width="100%">
-</p>
-
----
-
-## 📈 Sales & Profit Analysis
-
-<p align="center">
-<img src="images/sales-analysis.png" width="100%">
-</p>
-
----
-
-## 📦 Product Analysis
-
-<p align="center">
-<img src="images/product-analysis.png" width="100%">
-</p>
-
----
-
-## 👥 Customer Analysis
-
-<p align="center">
-<img src="images/customer-analysis.png" width="100%">
-</p>
 
 ---
 
