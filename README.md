@@ -327,23 +327,7 @@ This project demonstrates practical experience in:
 
 ---
 
-# 📂 Project Structure
 
-```
-Retail-Sales-Analytics-Dashboard/
-│
-├── Dashboard.pbix
-├── Dataset/
-│   └── Superstore.csv
-│
-├── Images/
-│   ├── dashboard-home.png
-│   ├── sales-analysis.png
-│   ├── product-analysis.png
-│   └── customer-analysis.png
-│
-└── README.md
-```
 
 ---
 
